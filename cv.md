@@ -9,7 +9,7 @@
 
 **Discord:** Ann (@anmarunenko )
 
-[**GitHub](https://github.com/anmarunenko)**
+[**GitHub]** (https://github.com/anmarunenko)
 ****
 
 ### About Myself:
@@ -73,9 +73,9 @@ Belarusian State University(Faculty of Philosophy and Social Sciences)
 
 ### Courses:
 
-*RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
-*Java on https://javarush.ru/
+* Java on https://javarush.ru/
 ****
 
 ### Languages:
