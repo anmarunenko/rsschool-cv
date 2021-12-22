@@ -9,7 +9,7 @@
 
 **Discord:** Ann (@anmarunenko )
 
-**[GitHub]**(https://github.com/anmarunenko)
+**[GitHub](https://github.com/anmarunenko)** 
 ****
 
 ### About Myself:
