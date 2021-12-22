@@ -9,7 +9,7 @@
 
 **Discord:** Ann (@anmarunenko )
 
-**[GitHub](https://github.com/anmarunenko)**
+**[GitHub]**(https://github.com/anmarunenko)
 ****
 
 ### About Myself:
@@ -22,15 +22,15 @@ Although I love my current role, I feel I’m now ready for a new steps, and Fro
 
 ### Skills and Proficiency:
 
-*HTML
+* HTML
 
-*CSS
+* CSS
 
-*Git
+* Git
 
-*Java
+* Java
 
-*SQL
+* SQL
 ****
 
 ### Code example:
