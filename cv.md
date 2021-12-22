@@ -10,6 +10,7 @@
 **Discord:** Ann (@anmarunenko )
 
 **[GitHub](https://github.com/anmarunenko)** 
+
 ****
 
 ### About Myself:
@@ -18,6 +19,7 @@ I have finished Belarusian State University this year. So, now I'm working as IT
 Not so long ago I was interesting in development. At first I try to learn Java, it was about 4 months. But then I understood, that frontend development is far more interesting for me, than backend, where you are working only with logic.
 So, now I try to learn something new throught the different courses, video, books.
 Although I love my current role, I feel I’m now ready for a new steps, and Frontend develipment really excites me.
+
 ****
 
 ### Skills and Proficiency:
@@ -31,6 +33,7 @@ Although I love my current role, I feel I’m now ready for a new steps, and Fro
 * Java
 
 * SQL
+
 ****
 
 ### Code example:
@@ -76,6 +79,7 @@ Belarusian State University(Faculty of Philosophy and Social Sciences)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 * Java on https://javarush.ru/
+
 ****
 
 ### Languages:
